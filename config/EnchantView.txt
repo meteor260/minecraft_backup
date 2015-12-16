@@ -1,0 +1,13 @@
+#EnchantView basic properties
+#Wed Dec 16 23:03:39 CST 2015
+ALLOW_ON_LAN=true
+ENABLE=Always
+# ENABLE
+#     Enable EnchantView.
+#     Keep in mind that it only works
+#     in multiplayer if the
+#     server has the mod.
+# ALLOW_ON_LAN
+#     This option determines whether
+#     to allow players on your LAN
+#     world to use EnchantView.
